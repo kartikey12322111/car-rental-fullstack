@@ -1,6 +1,6 @@
 # 🚗 Car Rental Full Stack Web App
 
-A modern and fully responsive **Car Rental Web Application** built using the **MERN Stack**. This platform allows users to browse cars, make bookings, and manage rentals, while admins can control inventory and bookings efficiently.
+A modern and fully responsive **Car Rental Web Application** built using the **MERN Stack**. This platform allows users to browse cars, make bookings, and manage rentals, while admins can control inventory and bookings properly and efficiently.
 
 ---
 
